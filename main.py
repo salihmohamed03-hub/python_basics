@@ -1,0 +1,10 @@
+import example
+print(example.pi)
+result=example.square(3)
+print(result)
+result=example.cube(4)
+print(result)
+result=example.perimeter(3)
+print(result)
+result=example.area(5)
+print(result)
